@@ -2,3 +2,5 @@ websockify/node_modules
 .project
 target.cfg
 target.cfg.d
+.gitignore
+**/package-lok.json
